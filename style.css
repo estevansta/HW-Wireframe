@@ -7,6 +7,8 @@ body {
     margin: auto;
 }
 
+/* had trouble centering the header and nav text */
+
 header {
     padding: 20px;
     background-color: #ebebeb;
@@ -24,6 +26,7 @@ nav {
     height: 60px;
     margin: 10px;
 }
+/* need to center text for section and aside */
 
 section {
     float: left;
